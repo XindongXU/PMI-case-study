@@ -1,0 +1,1 @@
+[{"sentence": "I love this movie , it is so great !", "IOB": ["O", "O", "O", "B-ASP", "O", "O", "O", "O", "O", "O"], "tokens": ["I", "love", "this", "movie", ",", "it", "is", "so", "great", "!"], "aspect": ["movie"], "position": [[4]], "sentiment": ["Positive"], "probs": [[0.004690195899456739, 0.014222381636500359, 0.9810875058174133]], "confidence": [0.9811]}]

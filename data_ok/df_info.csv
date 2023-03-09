@@ -1,0 +1,43 @@
+Product_id,Brand,Name,Capacity(mL),Nicotine(%),Puffs,Review_count,Score,Recommend(%),Flavor,Sweet,Lasting,Link,Price
+1,Flum,Flum Float Disposable Vape 5% Nicotine,8.0,5.0,3000,1033.0,4.8,95%,92.0385,76.6734,82.9615,https://www.huffandpuffers.com//products/flum-float-disposable-vape,14.99
+2,Hyppe,Hyppe Max Flow Supreme Disposable Vape 5% Nicotine,6.0,5.0,2000,850.0,4.8,96%,92.4332,72.4777,80.3412,https://www.huffandpuffers.com//products/hyppe-max-flow-disposable-ecig,11.99
+3,Elf,Elf Bar BC5000 Disposable Vape 5% Nicotine,13.0,5.0,5000,937.0,4.9,97%,94.375,84.9609,91.2891,https://www.huffandpuffers.com//products/elf-bar-bc5000-disposable-vape,14.99
+4,Flum,Flum Pebble Disposable Vape 5% Nicotine,14.0,5.0,6000,459.0,4.8,96%,91.557,79.6053,90.7346,https://www.huffandpuffers.com//products/flum-pebble-disposable-vape,15.99
+5,Lucid,Lucid Air Disposable Vape 5% Nicotine,16.0,5.0,5000,334.0,4.7,93%,87.931,73.2759,81.681,https://www.huffandpuffers.com//products/lucid-air-disposable-vape,14.99
+6,Puff,Puff Xtra Limited Disposable Vape 5% Nicotine,8.0,5.0,3000,207.0,4.7,92%,89.0306,80.8673,83.9286,https://www.huffandpuffers.com//products/puff-xtra-limited-disposable-vape,13.99
+7,Flum,Flum Gio Disposable Vape 5% Nicotine,8.0,5.0,3000,281.0,4.8,93%,93.2624,77.305,80.3191,https://www.huffandpuffers.com//products/flum-gio-disposable-vape,14.99
+8,Vibez,Vibez Air Disposable Vape 5% Nicotine,11.0,5.0,6000,200.0,4.5,88%,81.1966,74.1453,78.8462,https://www.huffandpuffers.com//products/vibez-air-disposable-vape,14.99
+9,Elf,Elf Bar BC5000 Ultra Disposable Vape 5% Nicotine,13.0,5.0,5000,281.0,4.8,95%,91.1032,81.8505,90.3915,https://www.huffandpuffers.com//products/elf-bar-ultra-bc5000-vape,15.99
+10,Pod,Pod Mesh Flo Edition Disposable Vape 5.5% Nicotine,10.0,5.5,4000,162.0,4.6,91%,81.0606,66.6667,72.7273,https://www.huffandpuffers.com//products/pod-mesh-flo-edition-disposable-vape,12.99
+11,Daze,Daze Egge Disposable Vape 5% Nicotine,7.0,5.0,3000,173.0,4.7,90%,87.0588,74.7059,82.3529,https://www.huffandpuffers.com//products/daze-egge-disposable-vape,11.99
+12,Daze,Daze Ohmlet Disposable Vape 5% Nicotine,15.0,5.0,7000,243.0,4.6,88%,88.6628,77.907,90.9884,https://www.huffandpuffers.com//products/daze-ohmlet-disposable-vape,15.99
+13,Pod,Pod 5500 V2 Disposable Vape 5.5% Nicotine,12.0,5.5,5500,171.0,4.6,92%,83.9286,72.9167,82.1429,https://www.huffandpuffers.com//products/pod-5500-v2-disposable-vape,13.99
+14,SWFT,SWFT Mod Disposable Vape 5% Nicotine,15.0,5.0,5000,173.0,4.6,88%,88.1356,75.0,85.8051,https://www.huffandpuffers.com//products/swft-mod-disposable-vape,14.99
+15,Top,Top Shine Cherub Disposable Vape 5% Nicotine,10.0,5.0,4500,152.0,4.8,95%,94.6809,87.234,86.9681,https://www.huffandpuffers.com//products/top-shine-cherub-disposable-vape,13.99
+16,Lost,Lost Mary OS5000 Disposable Vape 5% Nicotine,13.0,5.0,5000,234.0,4.8,94%,92.2727,85.9091,90.6818,https://www.huffandpuffers.com//products/lost-mary-os5000-disposable-vape,14.99
+17,Vape,Vape Gang XXL Switch Duo Disposable Vape 5% Nicotine,7.0,5.0,2500,81.0,4.7,93%,95.0,76.6667,86.6667,https://www.huffandpuffers.com//products/vape-gang-xxl-switch-duo-disposable-vape,13.99
+18,Candy,Candy King Air Disposable Vape 5% Nicotine,11.0,5.0,6000,128.0,4.4,87%,86.2805,78.0488,85.061,https://www.huffandpuffers.com//products/candy-king-air-disposable-vape,14.99
+19,Hyppe,Hyppe Max Air Disposable Vape 5% Nicotine,13.0,5.0,5000,164.0,4.5,88%,88.5827,72.0472,86.4173,https://www.huffandpuffers.com//products/hyppe-max-air-disposable-vape,14.99
+20,Fog,Fog X Box Disposable Vape 5% Nicotine,13.0,5.0,6000,119.0,4.1,75%,67.8571,60.3175,67.8571,https://www.huffandpuffers.com//products/fog-x-box-disposable-vape,14.99
+21,Elf,Elf Bar BC5000 Zero Nicotine Disposable Vape,13.0,0.0,5000,93.0,4.7,95%,89.7849,83.871,87.3656,https://www.huffandpuffers.com//products/elf-bar-bc5000-zero-nicotine-disposable,14.99
+22,Lost,Lost Mary MO5000 Disposable Vape 5% Nicotine,13.5,5.0,5000,96.0,4.8,98%,95.5729,88.0208,91.4062,https://www.huffandpuffers.com//products/lost-mary-mo5000-disposable-vape,14.99
+23,Lucid,Lucid Flow Disposable Vape 5% Nicotine,16.0,5.0,5000,68.0,4.4,81%,76.5152,68.1818,77.2727,https://www.huffandpuffers.com//products/lucid-flow-disposable-vape,14.99
+24,Nic5,Nic5 Vapor Opus Disposable Vape 5% Nicotine,6.5,5.0,2500,53.0,4.4,85%,76.4706,73.5294,55.8824,https://www.huffandpuffers.com//products/nic5-vapor-opus-disposable-vape,11.99
+25,Steam,Steam Engine Nunu Colours Disposable Vape 5% Nicotine,9.0,5.0,3000,45.0,4.6,89%,76.6667,75.0,71.6667,https://www.huffandpuffers.com//products/steam-engine-nunu-colours-disposable-vape,11.99
+26,Elf,Elf Bar Airo Max Disposable Vape 5% Nicotine,13.0,5.0,5000,83.0,4.7,93%,90.3614,83.4337,87.9518,https://www.huffandpuffers.com//products/elfbar-airo-max-disposable-vape,14.99
+27,Slaps,Slaps Disposable Vape 5% Nicotine,12.0,5.0,4500,44.0,4.5,82%,82.5,82.5,90.0,https://www.huffandpuffers.com//products/slaps-disposable-vape,11.99
+28,Elf,Elf Bar TE5000 Disposable Vape 5% Nicotine,13.5,5.0,5000,49.0,4.8,96%,94.3878,89.2857,92.3469,https://www.huffandpuffers.com//products/elf-bar-te5000-disposable-vape,14.99
+29,Steam,Steam Engine Nunu Box Disposable Vape 5% Nicotine,15.0,5.0,6000,56.0,4.6,88%,89.6552,78.4483,93.1034,https://www.huffandpuffers.com//products/steam-engine-nunu-box-disposable-vape,14.99
+30,VFEEL,VFEEL Reckless Disposable Vape 5% Nicotine,10.0,5.0,4000,35.0,4.6,89%,91.6667,75.0,87.5,https://www.huffandpuffers.com//products/vfeel-reckless-disposable-vape,14.99
+31,Nic5,Nic5 Vapor EDM Disposable Vape 5% Nicotine,10.0,5.0,5000,40.0,4.3,78%,81.7308,79.8077,75.0,https://www.huffandpuffers.com//products/nic5-vapor-edm-disposable-vape,13.99
+32,NKD,NKD 100 Max Disposable Vape 5% Nicotine,10.0,5.0,4500,52.0,4.2,83%,70.625,64.375,73.75,https://www.huffandpuffers.com//products/nkd-100-max-disposable-vape,12.99
+33,Top,Top Shine Seraph Ultra Disposable Vape 5% Nicotine,14.0,5.0,6500,41.0,4.6,95%,86.5854,82.9268,87.1951,https://www.huffandpuffers.com//products/top-shine-seraph-ultra-disposable-vape,14.99
+34,Flum,Flum Zero Nicotine Disposable Vape,8.0,0.0,3000,32.0,4.5,84%,82.8125,79.6875,78.9062,https://www.huffandpuffers.com//products/flum-zero-nicotine-disposable,14.99
+35,Lucid,Lucid Charge Disposable Vape 5% Nicotine,14.0,5.0,7000,22.0,4.5,86%,86.3636,90.9091,92.0455,https://www.huffandpuffers.com//products/lucid-charge-disposable-vape,15.99
+36,Nic5,Nic5 Vapor 6000 Disposable Vape 5% Nicotine,10.0,5.0,6000,42.0,4.7,98%,89.2857,74.4048,86.3095,https://www.huffandpuffers.com//products/nic5-vapor-6000-disposable-vape,15.99
+37,Pod,Pod Juice X Hyde IQ Disposable Vape 5% Nicotine,8.0,5.0,5000,51.0,4.1,73%,75.0,76.6667,81.1111,https://www.huffandpuffers.com//products/pod-juice-hyde-iq-disposable-vape,14.99
+38,Vape,Vape Gang Max Disposable Vape 5% Nicotine,13.0,5.0,6000,34.0,4.5,85%,80.1471,77.2059,84.5588,https://www.huffandpuffers.com//products/vape-gang-max-disposable-vape,14.99
+39,Lykcan,Lykcan Belo Disposable Vape 5% Nicotine,12.0,5.0,6000,27.0,4.5,81%,84.2593,81.4815,80.5556,https://www.huffandpuffers.com//products/lykcan-belo-disposable-vape,14.99
+40,Funky,Funky Republic Ti7000 Disposable Vape 5% Nicotine,17.0,5.0,7000,0,,,,,,https://www.huffandpuffers.com//products/funky-republic-ti7000-disposable-vape,16.99
+41,Lucid,Lucid Air Plus Zero Nicotine Disposable Vape,12.0,0.0,5000,21.0,4.2,81%,76.1905,79.7619,77.381,https://www.huffandpuffers.com//products/lucid-air-plus-zero-nicotine-disposable,14.99
+42,Phun,Phun 6000 Disposable Vape 5% Nicotine,12.0,5.0,6000,21.0,4.4,86%,82.1429,80.9524,80.9524,https://www.huffandpuffers.com//products/phun-6000-disposable-vape,14.99

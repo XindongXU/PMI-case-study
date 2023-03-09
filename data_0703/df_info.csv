@@ -1,0 +1,43 @@
+Product_id,Brand,Name,Capacity(mL),Nicotine(%),Puffs,Review_count,Score,Link
+1,Flum,Flum Float Disposable Vape 5% Nicotine,8.0,5.0,3000,1031.0,4.8,https://www.huffandpuffers.com//products/flum-float-disposable-vape
+2,Hyppe,Hyppe Max Flow Supreme Disposable Vape 5% Nicotine,6.0,5.0,2000,842.0,4.8,https://www.huffandpuffers.com//products/hyppe-max-flow-disposable-ecig
+3,Elf,Elf Bar BC5000 Disposable Vape 5% Nicotine,13.0,5.0,5000,930.0,4.8,https://www.huffandpuffers.com//products/elf-bar-bc5000-disposable-vape
+4,Flum,Flum Pebble Disposable Vape 5% Nicotine,14.0,5.0,6000,453.0,4.8,https://www.huffandpuffers.com//products/flum-pebble-disposable-vape
+5,Lucid,Lucid Air Disposable Vape 5% Nicotine,16.0,5.0,5000,332.0,4.7,https://www.huffandpuffers.com//products/lucid-air-disposable-vape
+6,Puff,Puff Xtra Limited Disposable Vape 5% Nicotine,8.0,5.0,3000,205.0,4.7,https://www.huffandpuffers.com//products/puff-xtra-limited-disposable-vape
+7,Flum,Flum Gio Disposable Vape 5% Nicotine,8.0,5.0,3000,279.0,4.8,https://www.huffandpuffers.com//products/flum-gio-disposable-vape
+8,Vibez,Vibez Air Disposable Vape 5% Nicotine,11.0,5.0,6000,200.0,4.5,https://www.huffandpuffers.com//products/vibez-air-disposable-vape
+9,Elf,Elf Bar BC5000 Ultra Disposable Vape 5% Nicotine,13.0,5.0,5000,277.0,4.8,https://www.huffandpuffers.com//products/elf-bar-ultra-bc5000-vape
+10,Pod,Pod Mesh Flo Edition Disposable Vape 5.5% Nicotine,10.0,5.5,4000,161.0,4.6,https://www.huffandpuffers.com//products/pod-mesh-flo-edition-disposable-vape
+11,Daze,Daze Egge Disposable Vape 5% Nicotine,7.0,5.0,3000,173.0,4.7,https://www.huffandpuffers.com//products/daze-egge-disposable-vape
+12,Daze,Daze Ohmlet Disposable Vape 5% Nicotine,15.0,5.0,7000,240.0,4.6,https://www.huffandpuffers.com//products/daze-ohmlet-disposable-vape
+13,Pod,Pod 5500 V2 Disposable Vape 5.5% Nicotine,12.0,5.5,5500,171.0,4.6,https://www.huffandpuffers.com//products/pod-5500-v2-disposable-vape
+14,SWFT,SWFT Mod Disposable Vape 5% Nicotine,15.0,5.0,5000,173.0,4.6,https://www.huffandpuffers.com//products/swft-mod-disposable-vape
+15,Top,Top Shine Cherub Disposable Vape 5% Nicotine,10.0,5.0,4500,152.0,4.8,https://www.huffandpuffers.com//products/top-shine-cherub-disposable-vape
+16,Lost,Lost Mary OS5000 Disposable Vape 5% Nicotine,13.0,5.0,5000,232.0,4.8,https://www.huffandpuffers.com//products/lost-mary-os5000-disposable-vape
+17,Vape,Vape Gang XXL Switch Duo Disposable Vape 5% Nicotine,7.0,5.0,2500,81.0,4.7,https://www.huffandpuffers.com//products/vape-gang-xxl-switch-duo-disposable-vape
+18,Candy,Candy King Air Disposable Vape 5% Nicotine,11.0,5.0,6000,127.0,4.4,https://www.huffandpuffers.com//products/candy-king-air-disposable-vape
+19,Hyppe,Hyppe Max Air Disposable Vape 5% Nicotine,13.0,5.0,5000,163.0,4.5,https://www.huffandpuffers.com//products/hyppe-max-air-disposable-vape
+20,Fog,Fog X Box Disposable Vape 5% Nicotine,13.0,5.0,6000,119.0,4.1,https://www.huffandpuffers.com//products/fog-x-box-disposable-vape
+21,Elf,Elf Bar BC5000 Zero Nicotine Disposable Vape,13.0,0.0,5000,93.0,4.7,https://www.huffandpuffers.com//products/elf-bar-bc5000-zero-nicotine-disposable
+22,Lost,Lost Mary MO5000 Disposable Vape 5% Nicotine,13.5,5.0,5000,93.0,4.8,https://www.huffandpuffers.com//products/lost-mary-mo5000-disposable-vape
+23,Lucid,Lucid Flow Disposable Vape 5% Nicotine,16.0,5.0,5000,67.0,4.4,https://www.huffandpuffers.com//products/lucid-flow-disposable-vape
+24,Nic5,Nic5 Vapor Opus Disposable Vape 5% Nicotine,6.5,5.0,2500,53.0,4.4,https://www.huffandpuffers.com//products/nic5-vapor-opus-disposable-vape
+25,Steam,Steam Engine Nunu Colours Disposable Vape 5% Nicotine,9.0,5.0,3000,45.0,4.6,https://www.huffandpuffers.com//products/steam-engine-nunu-colours-disposable-vape
+26,Elf,Elf Bar Airo Max Disposable Vape 5% Nicotine,13.0,5.0,5000,79.0,4.6,https://www.huffandpuffers.com//products/elfbar-airo-max-disposable-vape
+27,Slaps,Slaps Disposable Vape 5% Nicotine,12.0,5.0,4500,43.0,4.4,https://www.huffandpuffers.com//products/slaps-disposable-vape
+28,Elf,Elf Bar TE5000 Disposable Vape 5% Nicotine,13.5,5.0,5000,48.0,4.8,https://www.huffandpuffers.com//products/elf-bar-te5000-disposable-vape
+29,Steam,Steam Engine Nunu Box Disposable Vape 5% Nicotine,15.0,5.0,6000,56.0,4.6,https://www.huffandpuffers.com//products/steam-engine-nunu-box-disposable-vape
+30,VFEEL,VFEEL Reckless Disposable Vape 5% Nicotine,10.0,5.0,4000,35.0,4.6,https://www.huffandpuffers.com//products/vfeel-reckless-disposable-vape
+31,Nic5,Nic5 Vapor EDM Disposable Vape 5% Nicotine,10.0,5.0,5000,40.0,4.3,https://www.huffandpuffers.com//products/nic5-vapor-edm-disposable-vape
+32,NKD,NKD 100 Max Disposable Vape 5% Nicotine,10.0,5.0,4500,52.0,4.2,https://www.huffandpuffers.com//products/nkd-100-max-disposable-vape
+33,Top,Top Shine Seraph Ultra Disposable Vape 5% Nicotine,14.0,5.0,6500,41.0,4.6,https://www.huffandpuffers.com//products/top-shine-seraph-ultra-disposable-vape
+34,Flum,Flum Zero Nicotine Disposable Vape,8.0,0.0,3000,32.0,4.5,https://www.huffandpuffers.com//products/flum-zero-nicotine-disposable
+35,Lucid,Lucid Charge Disposable Vape 5% Nicotine,14.0,5.0,7000,22.0,4.5,https://www.huffandpuffers.com//products/lucid-charge-disposable-vape
+36,Nic5,Nic5 Vapor 6000 Disposable Vape 5% Nicotine,10.0,5.0,6000,42.0,4.7,https://www.huffandpuffers.com//products/nic5-vapor-6000-disposable-vape
+37,Pod,Pod Juice X Hyde IQ Disposable Vape 5% Nicotine,8.0,5.0,5000,51.0,4.1,https://www.huffandpuffers.com//products/pod-juice-hyde-iq-disposable-vape
+38,Vape,Vape Gang Max Disposable Vape 5% Nicotine,13.0,5.0,6000,34.0,4.5,https://www.huffandpuffers.com//products/vape-gang-max-disposable-vape
+39,Lykcan,Lykcan Belo Disposable Vape 5% Nicotine,12.0,5.0,6000,27.0,4.5,https://www.huffandpuffers.com//products/lykcan-belo-disposable-vape
+40,Funky,Funky Republic Ti7000 Disposable Vape 5% Nicotine,17.0,5.0,7000,,,https://www.huffandpuffers.com//products/funky-republic-ti7000-disposable-vape
+41,Lucid,Lucid Air Plus Zero Nicotine Disposable Vape,12.0,0.0,5000,21.0,4.2,https://www.huffandpuffers.com//products/lucid-air-plus-zero-nicotine-disposable
+42,Phun,Phun 6000 Disposable Vape 5% Nicotine,12.0,5.0,6000,21.0,4.4,https://www.huffandpuffers.com//products/phun-6000-disposable-vape
