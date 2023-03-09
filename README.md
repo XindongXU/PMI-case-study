@@ -1,4 +1,4 @@
-# Case-Study
+# Case_Study
 A one-week project working on data scraping and analysis on the disposable vape products on [huffandpuffers online retailer](https://www.huffandpuffers.com).
 
 ## Data scraping script: scraping_script.py
