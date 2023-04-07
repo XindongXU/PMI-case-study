@@ -1,5 +1,5 @@
 # Case_Study
-A one-week project working on data scraping and analysis on the disposable vape products on [huffandpuffers online retailer](https://www.huffandpuffers.com).
+A month-week project working on data scraping and analysis on the disposable vape products on [huffandpuffers online retailer](https://www.huffandpuffers.com).
 
 ## Data scraping script: scraping_script.py
 * A data scraping script that we could run directly after setting up the python environment.
@@ -10,7 +10,7 @@ A one-week project working on data scraping and analysis on the disposable vape 
 
 ## Data analysis notebook: data_analysis.ipynb
 * A notebook where all the result is already presented, no need to run from the start.
-* We've performed data analysis focusing on several aspects, for example, distribution of products' attributes, influence of single feature on the product's popularity, product feature importance study based on the `random forest` algorithm, `unsupervised classification` of review data, `extraction of keywords`, generation of `word clouds` and `sentiment analysis` for the products' aspect terms, and `trend analysis over time` of volume of interaction of products.<p>
+* We've performed data analysis focusing on several aspects, for example, distribution of products' attributes, influence of single feature on the product's popularity, product feature importance study based on the `random forest` algorithm, `transformer based unsupervised semantic classification` of review data, `extraction of keywords`, generation of `word clouds` and `sentiment analysis` for the products' aspect terms, and `trend analysis over time` of volume of interaction of products.<p>
 
 ## Folder: data
 * data: A blank folder where we can store the new data, and the new checkpoints files (`visited_product`, `visited_product_dict`) will be created in this folder.
